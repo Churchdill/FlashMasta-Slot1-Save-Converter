@@ -1,4 +1,4 @@
-![Alt text](/Screenshot-1.png?raw=true "FlashMastaWS_SRAMconverter")
+![alt text](/Screenshot-1.png?raw=true "FlashMastaWS_SRAMconverter")
 
 The official Menu ROM has some problems with how it loads some games. You can avoid the menu rom entirely and these problems by just flashing a single game's ROM to "Slot 1" by using the official flashmasta.exe software: https://www.flashmasta.com/software-downloads/
 
